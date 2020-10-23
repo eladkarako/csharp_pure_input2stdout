@@ -1,0 +1,6 @@
+D:\Documents\SharpDevelop Projects\csharp_pure_input2stdout\input2stdout\bin\Release\input2stdout.exe.config
+D:\Documents\SharpDevelop Projects\csharp_pure_input2stdout\input2stdout\bin\Release\input2stdout.exe
+D:\Documents\SharpDevelop Projects\csharp_pure_input2stdout\input2stdout\obj\Release\ResolveAssemblyReference.cache
+D:\Documents\SharpDevelop Projects\csharp_pure_input2stdout\input2stdout\obj\Release\input2stdout.MainForm.resources
+D:\Documents\SharpDevelop Projects\csharp_pure_input2stdout\input2stdout\obj\Release\input2stdout.csproj.GenerateResource.Cache
+D:\Documents\SharpDevelop Projects\csharp_pure_input2stdout\input2stdout\obj\Release\input2stdout.exe
