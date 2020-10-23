@@ -1,0 +1,6 @@
+D:\Software\עזרי ויזואל-בייסיק 1\עזרי סי שארפ\csharp_pure_input2stdout\input2stdout\bin\Release\input2stdout.exe.config
+D:\Software\עזרי ויזואל-בייסיק 1\עזרי סי שארפ\csharp_pure_input2stdout\input2stdout\bin\Release\input2stdout.exe
+D:\Software\עזרי ויזואל-בייסיק 1\עזרי סי שארפ\csharp_pure_input2stdout\input2stdout\obj\Release\ResolveAssemblyReference.cache
+D:\Software\עזרי ויזואל-בייסיק 1\עזרי סי שארפ\csharp_pure_input2stdout\input2stdout\obj\Release\input2stdout.MainForm.resources
+D:\Software\עזרי ויזואל-בייסיק 1\עזרי סי שארפ\csharp_pure_input2stdout\input2stdout\obj\Release\input2stdout.csproj.GenerateResource.Cache
+D:\Software\עזרי ויזואל-בייסיק 1\עזרי סי שארפ\csharp_pure_input2stdout\input2stdout\obj\Release\input2stdout.exe
